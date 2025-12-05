@@ -102,8 +102,5 @@ Administrador	Gerenciar Sistema	Funções de auditoria (auditarLog) e controle d
 
         Execute os testes na sua IDE para verificar se o cálculo de custo e a gestão de status da reserva estão funcionando corretamente.
 
-🤝 Contribuições
 
-Sinta-se à vontade para enviar pull requests para melhorias, como a integração com um banco de dados real (JDBC/Hibernate) ou a refatoração da UI.
-
-Desenvolvedor: Antonio Lincon Leite Militão, Samuel Araujo Chaves Dias e Marcela Hemilly Fernandes Cavalcante
+Desenvolvedores: Antonio Lincon Leite Militão, Samuel Araujo Chaves Dias e Marcela Hemilly Fernandes Cavalcante
